@@ -21,3 +21,4 @@ Most of the methods we make will be public. This allows the user to access and e
 Private methods are also called *helper* methods that perform useful functions inside other methods.
 Protected methods are used for classes that extend the current class. We will learn about **inheritance** later in the year. 
 
+The method that is executable is the **main** method. Any of the commands in the main are executed
