@@ -22,3 +22,7 @@ Private methods are also called *helper* methods that perform useful functions i
 Protected methods are used for classes that extend the current class. We will learn about **inheritance** later in the year. 
 
 The method that is executable is the **main** method. Any of the commands in the main are executed
+
+The main method takes a single parameter of a String array. Any of the commands in this method will be executed. 
+
+Write a program called MyIntro.java which prints your name, your graduation year, and whether you are a boarder or day student. 
