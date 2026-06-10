@@ -54,3 +54,6 @@ firstProgram()
 ```
 
 Again we would execute the program by saving the file (pyFile.py) and then executing the file in the terminal using the ```python pyFile.py``` command.
+
+### Java Program
+In Java, 
