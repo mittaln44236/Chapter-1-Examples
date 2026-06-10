@@ -29,5 +29,23 @@ In Python, the first program is usually a print statement in the Python environm
 ```python
 print("Hello Pioneers!")
 ```
+If we put this into a Python file, we would have to write the command in a .py file and then from the terminal, we would type in 
+<p>Windows</p>
+```
+C:\Users\Pioneer> python pyFile.py
+```
+<p>Linux / Mac</p>
+```
+Pioneer@Pioneer:~$ python pyFile.py
+```
+Then the Python compiler would turn the python code to bytecode and print the message to the screen.
 
+If we want to adopt the structure of a Java program, we would write the command in a function and then call the function after it is closed
+```python
+def firstProgram():
+   print("Hello Pioneers")
 
+firstProgram()
+```
+
+Again we would execute the program by saving the file (pyFile.py) and then executing the file in the terminal using the ```python pyFile.py``` command.
