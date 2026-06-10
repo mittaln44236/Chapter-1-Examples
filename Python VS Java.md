@@ -22,4 +22,12 @@ Advantages to Java:
 * A wide variety of libraries for analysis and visualization.
 * You do need to assign data types to variables.
 * Better data security for variables in a class.
-* 
+
+## First Programs
+### Python
+In Python, the first program is usually a print statement in the Python environment.
+```python
+print("Hello Pioneers!")
+```
+
+
