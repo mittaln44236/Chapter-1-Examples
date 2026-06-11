@@ -44,8 +44,8 @@ def divide(a, b):
         return "Error: division by zero"
     return a / b
 
-x  = float(input("First number: "))
-y  = float(input("Second number: "))
+x = float(input("First number: "))
+y = float(input("Second number: "))
 op = input("Operation (+, -, *, /): ")
 
 if op == "+":

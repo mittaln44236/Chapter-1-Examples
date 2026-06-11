@@ -5,7 +5,7 @@ print("Hello, Pioneers!")
 print("Two plus two is", 2 + 2)
 
 # --- f-strings ---
-name  = "Jordan"
+name = "Jordan"
 grade = 11
 print(f"Welcome, {name}! You are in grade {grade}.")
 
